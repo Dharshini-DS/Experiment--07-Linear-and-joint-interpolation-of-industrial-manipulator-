@@ -49,7 +49,7 @@ DART studio screen shots for linear interpolation
 DART studio screen shots for joint interpolation 
 
 
-
+![533ex7](https://github.com/Dharshini-DS/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/93427345/a0fc672e-4f2a-4006-996a-7a34bf6342e5)
 
 
 
@@ -62,6 +62,12 @@ DART studio screen shots for joint interpolation
 
 
 
+![533ex7i](https://github.com/Dharshini-DS/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/93427345/30102421-2d01-4f14-8afb-80f6987c981c)
+
+
+
+![533ex7j](https://github.com/Dharshini-DS/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/93427345/ceea4894-ae28-4609-bb53-b30fc30d5e1e)
+
 
 
 
@@ -71,3 +77,5 @@ DART studio screen shots for joint interpolation
 
 
 ### Results:  
+
+Thus the program for linear and joint interpolation of industrial manipulator has executed successfully.
